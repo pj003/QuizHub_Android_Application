@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_menu.xml",
+        "source": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_menu_class.xml",
+        "source": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\src\\main\\res\\menu\\bottom_menu_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_menu_quiz.xml",
+        "source": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\src\\main\\res\\menu\\bottom_menu_quiz.xml"
+    }
+]

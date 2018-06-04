@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\826d18f480ba700f715f0dcd318ba73ce33b22f2\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\826d18f480ba700f715f0dcd318ba73ce33b22f2\\output\\res\\anim\\design_snackbar_in.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

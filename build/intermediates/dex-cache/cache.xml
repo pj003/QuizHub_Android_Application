@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3bfa8b1a30136cbb508d831769f91ea85d6b841d">
+        <dex dex="C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e45510c7d11fa3a3b154a3b47fa91948985519f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_81c5a9aa803b40b83d0725e75514422b2b7ea3ea\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">741250732205-fa8hg6bvmrh22i1a071p08nlol78aorf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://quizhubnew.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">741250732205</string>
+    <string name="google_api_key" translatable="false">AIzaSyCCNeVLUHBJfNeCgSI8fCt_hdBpXn1kGRk</string>
+    <string name="google_app_id" translatable="false">1:741250732205:android:08b5db5b11f98ca7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCCNeVLUHBJfNeCgSI8fCt_hdBpXn1kGRk</string>
+    <string name="google_storage_bucket" translatable="false">quizhubnew.appspot.com</string>
+    <string name="project_id" translatable="false">quizhubnew</string>
+</resources>

@@ -1,0 +1,269 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Katy Karthik\.android\build-cache\66fb81c0fc6796f3a56f693eec264f0f7c2d7853\output\AndroidManifest.xml:13:5-17:19
+MERGED from [com.google.firebase:firebase-core:10.2.0] C:\Users\Katy Karthik\.android\build-cache\f6830ea45735a64c0146b5e85754187dbb4e202b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Katy Karthik\.android\build-cache\1662b47dd36f4f3ebc7c2c919005def0775eb02a\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Katy Karthik\.android\build-cache\add27ca893a098fae13c9802b61b3c4d1d234b90\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Katy Karthik\.android\build-cache\3d63b97706a9db31e909fb4be894167e45e16800\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Katy Karthik\.android\build-cache\a4b3aa307ed255cb38e10109696d57dd743bade2\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\a2c118824f997c4d7eaf9b32b7590ad6d8aa11a8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\826d18f480ba700f715f0dcd318ba73ce33b22f2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\f60d38d6e99a0abf73d23d30fe4fbc8dcc43db37\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\aa0c112cca0eab3db17f011886c9c4ea79e23327\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\db1eb78ed24ee5b4494aad3a9117f3287f03800f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\ca621b8fafb7cf28d2554d08c1338f1d5430d6ee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\2a3d2c423a215c1b45c0ea3232ec05b509b73127\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\3a8d193d092f1e534ee1da9e59f2befd1e946751\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\305cdda2423670edf277f303394b7ff212d782a8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\b87a01d75a83ca52485d9dd73d571e24c6fb561d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\6c1d94552643ca686762d49bb5a4bbf34eacc809\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\1828b4d067d30b37aa35fe299edf5dea78f9b1d8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Katy Karthik\.android\build-cache\8b0b6586486f55a1d271797ade1d144de7374b7a\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:7:9-38
+	android:theme
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.katykarthik.quizhubnew.MainActivity
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.katykarthik.quizhubnew.Home
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:19:19-39
+activity#com.example.katykarthik.quizhubnew.Start
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:20:9-43
+	android:name
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:20:19-40
+activity#com.example.katykarthik.quizhubnew.Playing
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:21:9-45
+	android:name
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:21:19-42
+activity#com.example.katykarthik.quizhubnew.Done
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:22:9-42
+	android:name
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:22:19-39
+activity#com.example.katykarthik.quizhubnew.ScoreDetail
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:23:19-46
+activity#com.example.katykarthik.quizhubnew.score_detail_layout
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:24:9-57
+	android:name
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:24:19-54
+activity#com.example.katykarthik.quizhubnew.Quiz
+ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml:25:19-39
+uses-sdk
+INJECTED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Katy Karthik\.android\build-cache\66fb81c0fc6796f3a56f693eec264f0f7c2d7853\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:10.2.0] C:\Users\Katy Karthik\.android\build-cache\f6830ea45735a64c0146b5e85754187dbb4e202b\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Katy Karthik\.android\build-cache\1662b47dd36f4f3ebc7c2c919005def0775eb02a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] C:\Users\Katy Karthik\.android\build-cache\925beef38e8a1ca96992559d4c94a7409d2a1a19\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] C:\Users\Katy Karthik\.android\build-cache\705c0a5fc81d1b632af1ef0df408ab25b10fcd2f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Katy Karthik\.android\build-cache\add27ca893a098fae13c9802b61b3c4d1d234b90\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Katy Karthik\.android\build-cache\3d63b97706a9db31e909fb4be894167e45e16800\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Katy Karthik\.android\build-cache\a4b3aa307ed255cb38e10109696d57dd743bade2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Katy Karthik\.android\build-cache\fa535dbc691898e9c6b11db6de75bba54c8b52e3\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\a2c118824f997c4d7eaf9b32b7590ad6d8aa11a8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\826d18f480ba700f715f0dcd318ba73ce33b22f2\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\174ab1e7e9d6ae25f4ea295c70b39e23e00409cb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\f60d38d6e99a0abf73d23d30fe4fbc8dcc43db37\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\aa0c112cca0eab3db17f011886c9c4ea79e23327\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\db1eb78ed24ee5b4494aad3a9117f3287f03800f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\ca621b8fafb7cf28d2554d08c1338f1d5430d6ee\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\2a3d2c423a215c1b45c0ea3232ec05b509b73127\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\3a8d193d092f1e534ee1da9e59f2befd1e946751\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\305cdda2423670edf277f303394b7ff212d782a8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\b87a01d75a83ca52485d9dd73d571e24c6fb561d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\6c1d94552643ca686762d49bb5a4bbf34eacc809\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\1828b4d067d30b37aa35fe299edf5dea78f9b1d8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Katy Karthik\.android\build-cache\8b0b6586486f55a1d271797ade1d144de7374b7a\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\826d18f480ba700f715f0dcd318ba73ce33b22f2\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Katy Karthik\AndroidStudioProjects\QuizHubNew\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Katy Karthik\.android\build-cache\66fb81c0fc6796f3a56f693eec264f0f7c2d7853\output\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Katy Karthik\.android\build-cache\1662b47dd36f4f3ebc7c2c919005def0775eb02a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Katy Karthik\.android\build-cache\66fb81c0fc6796f3a56f693eec264f0f7c2d7853\output\AndroidManifest.xml:11:22-64
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Katy Karthik\.android\build-cache\66fb81c0fc6796f3a56f693eec264f0f7c2d7853\output\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Katy Karthik\.android\build-cache\a4b3aa307ed255cb38e10109696d57dd743bade2\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Katy Karthik\.android\build-cache\66fb81c0fc6796f3a56f693eec264f0f7c2d7853\output\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Katy Karthik\.android\build-cache\66fb81c0fc6796f3a56f693eec264f0f7c2d7853\output\AndroidManifest.xml:15:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Katy Karthik\.android\build-cache\1662b47dd36f4f3ebc7c2c919005def0775eb02a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Katy Karthik\.android\build-cache\1662b47dd36f4f3ebc7c2c919005def0775eb02a\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Katy Karthik\.android\build-cache\1662b47dd36f4f3ebc7c2c919005def0775eb02a\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Katy Karthik\.android\build-cache\1662b47dd36f4f3ebc7c2c919005def0775eb02a\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Katy Karthik\.android\build-cache\b32d3e6771462ec131c28051af87218e524bb05f\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Katy Karthik\.android\build-cache\0f4834c134e628b05400c3717627c0346f1af848\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Katy Karthik\.android\build-cache\add27ca893a098fae13c9802b61b3c4d1d234b90\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Katy Karthik\.android\build-cache\add27ca893a098fae13c9802b61b3c4d1d234b90\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Katy Karthik\.android\build-cache\add27ca893a098fae13c9802b61b3c4d1d234b90\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Katy Karthik\.android\build-cache\add27ca893a098fae13c9802b61b3c4d1d234b90\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Katy Karthik\.android\build-cache\add27ca893a098fae13c9802b61b3c4d1d234b90\output\AndroidManifest.xml:6:79-143
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\a2c118824f997c4d7eaf9b32b7590ad6d8aa11a8\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\826d18f480ba700f715f0dcd318ba73ce33b22f2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\174ab1e7e9d6ae25f4ea295c70b39e23e00409cb\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\f60d38d6e99a0abf73d23d30fe4fbc8dcc43db37\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\aa0c112cca0eab3db17f011886c9c4ea79e23327\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\db1eb78ed24ee5b4494aad3a9117f3287f03800f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\ca621b8fafb7cf28d2554d08c1338f1d5430d6ee\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\2a3d2c423a215c1b45c0ea3232ec05b509b73127\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\3a8d193d092f1e534ee1da9e59f2befd1e946751\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\305cdda2423670edf277f303394b7ff212d782a8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\b87a01d75a83ca52485d9dd73d571e24c6fb561d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\6c1d94552643ca686762d49bb5a4bbf34eacc809\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\1828b4d067d30b37aa35fe299edf5dea78f9b1d8\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\a2c118824f997c4d7eaf9b32b7590ad6d8aa11a8\output\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Katy Karthik\.android\build-cache\a2c118824f997c4d7eaf9b32b7590ad6d8aa11a8\output\AndroidManifest.xml:23:9-47

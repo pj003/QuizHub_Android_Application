@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\826d18f480ba700f715f0dcd318ba73ce33b22f2\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Katy Karthik\\AndroidStudioProjects\\QuizHubNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Katy Karthik\\.android\\build-cache\\aa0c112cca0eab3db17f011886c9c4ea79e23327\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    }
+]
